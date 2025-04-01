@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeShop_Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23bc4e1f1a855d73a7b190de14c6c8ea1759827d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeShop_Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeShop_Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,7 @@ namespace CoffeeShop_Management
         public MainForm()
         {
             InitializeComponent();
+            // this is test for commit
         }
 
         private void MainForm_Load(object sender, EventArgs e)

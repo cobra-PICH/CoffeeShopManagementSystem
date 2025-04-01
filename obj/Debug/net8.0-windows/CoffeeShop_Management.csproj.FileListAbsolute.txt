@@ -21,3 +21,27 @@ D:\OOAD Project\CoffeeShop_Management\bin\Debug\net8.0-windows\System.Windows.Fo
 D:\OOAD Project\CoffeeShop_Management\obj\Debug\net8.0-windows\CoffeeShop_Management.csproj.AssemblyReference.cache
 D:\OOAD Project\CoffeeShop_Management\obj\Debug\net8.0-windows\CoffeeShop_Management.Dashboard.resources
 D:\OOAD Project\CoffeeShop_Management\obj\Debug\net8.0-windows\CoffeeSh.B6503BFF.Up2Date
+D:\E9\Git\bin\Debug\net8.0-windows\CoffeeShop_Management.exe
+D:\E9\Git\bin\Debug\net8.0-windows\CoffeeShop_Management.deps.json
+D:\E9\Git\bin\Debug\net8.0-windows\CoffeeShop_Management.runtimeconfig.json
+D:\E9\Git\bin\Debug\net8.0-windows\CoffeeShop_Management.dll
+D:\E9\Git\bin\Debug\net8.0-windows\CoffeeShop_Management.pdb
+D:\E9\Git\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.csproj.AssemblyReference.cache
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.CustomizeOrder.resources
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.Dashboard.resources
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.Login.resources
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.MainForm.resources
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.Make_Order.resources
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.csproj.GenerateResource.cache
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.AssemblyInfoInputs.cache
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.AssemblyInfo.cs
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.csproj.CoreCompileInputs.cache
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.sourcelink.json
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeSh.B6503BFF.Up2Date
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.dll
+D:\E9\Git\obj\Debug\net8.0-windows\refint\CoffeeShop_Management.dll
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.pdb
+D:\E9\Git\obj\Debug\net8.0-windows\CoffeeShop_Management.genruntimeconfig.cache
+D:\E9\Git\obj\Debug\net8.0-windows\ref\CoffeeShop_Management.dll
